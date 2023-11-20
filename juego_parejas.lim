@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="imagen_1.jpg" texto="1">imagen_1.jpg</parellas>
+              <parellas imaxe="img_10.jpg" texto="3">img_10.jpg</parellas>
+              <parellas imaxe="img_9.jpg" texto="">img_9.jpg</parellas>
+              <parellas imaxe="imagen_7.jpg" texto="2">imagen_7.jpg</parellas>
+              <parellas imaxe="img_2.jpg" texto="">img_2.jpg</parellas>
+              <parellas imaxe="img_8.jpg" texto="">img_8.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000080</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+    </libro>
+</lim>
